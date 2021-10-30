@@ -2,11 +2,13 @@
 Tugas GDSC ITB Frontend
 
 **Halaman Web Utama**
-![image](https://user-images.githubusercontent.com/80022868/139520772-66115661-322a-43f6-9656-1a7226a9d22f.png)
+![image](https://user-images.githubusercontent.com/80022868/139521890-c7300ffa-a8ca-49d2-bfb2-e66319c10df1.png)
+![image](https://user-images.githubusercontent.com/80022868/139521894-7566c60f-ac61-4a80-ad9d-75c430c0bec7.png)
 
-**Halaman Web Deskripsi Film**
-![image](https://user-images.githubusercontent.com/80022868/139520799-8c15ae11-c1c8-4fc9-bec7-fcf442c3bfda.png)
+**Halaman Web Deskripsi Film**!
+[Uploading image.png…]()
 
 **Detail Tambahan**
 (Header yang transparan)
-![image](https://user-images.githubusercontent.com/80022868/139520809-c9df48df-f9e6-4a81-97b3-0ff9ef6dc164.png)
+![image](https://user-images.githubusercontent.com/80022868/139521913-6bd0339d-80ed-42c0-bf16-69ac373e681d.png)
+

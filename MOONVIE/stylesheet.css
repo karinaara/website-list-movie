@@ -33,9 +33,9 @@ footer p {
 }
 
 body {
-    background-color: #D4F1F4;
     color: #ffffff;
     margin: 0;
+    background-image: url(background.png);
 }
 
 .h1 {

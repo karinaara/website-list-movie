@@ -1,0 +1,129 @@
+header {
+    height: 65px;
+    width: 100%;
+    background-color: #05435ec0;
+    position:fixed;
+    top:0;
+    z-index: 10;
+}
+
+header p {
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    font-size:50px;
+    position:inherit;
+    margin:5px;
+}
+
+footer {
+    height: 30px;
+    width: 100%;
+    background-color: #05445E;
+}
+
+footer p {
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    font-size:15px;
+    padding-top: 4px;
+}
+
+body {
+    background-color: #D4F1F4;
+    color: #ffffff;
+    margin: 0;
+}
+
+.h1 {
+    font-size: 30px;
+}
+
+.welcome {
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    color:black;
+    padding-top:50px;
+}
+
+.container {
+margin: 40px 20px;
+text-align: center;
+}
+
+.container .content {
+width: 100%;
+margin: 40px 0px;
+}
+
+.container .content .movie-list {
+padding: 0px;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+.container .content .movie-list .item {
+list-style: none;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 10px;
+margin-bottom: 40px;
+transition: 0.3s;
+display: inline-block;
+}
+
+.container .content .movie-list .item img {
+height: 300px;
+border-radius: 4px;
+}
+
+.container .content .movie-list .item .title {
+width: 200px;
+min-height: 60px;
+font-size: 18px;
+text-align: start;
+font-family: Arial;
+color:black;
+}
+
+.container .content .movie-list .item .genres {
+width: 200px;
+font-size: 15px;
+color: rgb(0, 0, 0);
+margin: 0;
+text-align: start;
+font-family: Arial;
+}
+
+.container .content .movie-list .item:hover {
+cursor: pointer;
+opacity: 0.8;
+}
+
+.poster {
+padding-top: 45px;
+padding-bottom: 45px;
+height: 550px;
+border-radius: 4px;
+position: relative;
+}
+
+
+.poster h1{
+    color: black;
+    position:relative;
+font-family: Arial;
+}
+
+.poster p {
+    margin: 50px;
+color: black;
+font-family: Arial;
+font-size: 15px;
+text-align: justify;
+}
